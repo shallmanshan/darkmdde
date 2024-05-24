@@ -1,0 +1,31 @@
+*{
+    font-family: "Montserrat", sans-serif;
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.heading{
+    display: flex;
+    justify-content: center;
+    margin-top: 120px;
+}
+h1{
+    font-size: 75px;
+}    
+.button{
+    border-radius: 50px;
+    border: 2px solid black;
+    width: 122px;
+    height: 60px;  
+    margin-top: 55px; 
+    margin-left: 718px;
+    background-color: black;
+}
+.round{
+    border: 1px solid black;
+    border-radius: 75px;
+    height: 57px;
+    width: 50px;
+    background-color: white;
+
+}
